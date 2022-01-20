@@ -1,0 +1,47 @@
+/* genel h p vb */
+
+/* h1, h2, h3, h4, h5, h6 {
+    font-size: 60px;
+    color: yellow;
+} */
+
+body {
+    background-color:honeydew;
+}
+
+h1 {
+    font-size: 50px;
+    color:darkturquoise;
+}
+
+h2 {
+    font-size: 40px;
+    color:firebrick;
+}
+
+p {
+    font-size: 20px;
+    color: darkgoldenrod;
+}
+
+li {
+    font-size: 30px;
+    color:orangered;
+}
+
+/* classlar */
+.text-red {
+    color: red;
+}
+
+.text-blue {
+    color: blue;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.fs-30 {
+    font-size: 30px;
+}
